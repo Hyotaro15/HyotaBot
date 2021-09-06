@@ -1,4 +1,4 @@
-<p align="center">
+< p  align = "centro" >
 <img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
@@ -26,7 +26,7 @@
 ## Inicia la Instalacion:
 
 ```bash
-> cd NyanBot
+> cd HyotaBot
 > bash install.sh
 ```
 
