@@ -1,4 +1,4 @@
-< p  align = "centro" >
+<p align = "centro">
 <img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
