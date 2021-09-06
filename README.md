@@ -1,7 +1,7 @@
 <p align = "Centro" >
-< img  src = "./src/assistant.jpg"  width = "140"  height = "140" />
-</p>
-<p align="center">
+<   img    src = "./ https://pin.it/7x7TMPd.jpg "    width = "140"    height = "140"   />
+
+< p  align = "centro" >
 <a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐬𝑯𝒚𝒐𝒕𝒂𝑩𝒐𝒕 | 🔥𝑯𝒚𝒐𝒕𝒂𝒓𝒐🔥 | Sᥲm ყ Pᥱrrყ🥀-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
